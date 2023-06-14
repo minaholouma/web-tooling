@@ -1,0 +1,18 @@
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-attachment: fixed;
+}
+
+body > img {
+  width: 70%;
+  margin: -500px 150px;
+}
+h1 {
+  color: rgba(0, 0, 255, 0.247);
+}
